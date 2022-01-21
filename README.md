@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeevanbhushetty)](https://github.com/jeevanbhushetty/github-profile-trophy)
 
+[Stats]: https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
+
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanbhushetty&layout=compact)](https://github.com/jeevanbhushetty)
+
 
 
