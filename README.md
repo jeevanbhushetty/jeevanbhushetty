@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeevanbhushetty)](https://github.com/jeevanbhushetty/github-profile-trophy)
+
+![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&show_icons=true&theme=radical)
+
