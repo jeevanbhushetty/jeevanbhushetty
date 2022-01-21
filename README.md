@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanbhushetty&layout=compact)](https://github.com/jeevanbhushetty)
+
+
