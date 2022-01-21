@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&theme=tokyonight&show_icons=true)
 
-![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevanbhushetty&show_icons=true&theme=github_dark)
-
-
-
 
